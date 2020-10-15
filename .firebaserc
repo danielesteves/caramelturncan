@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "caramelturncandog"
+  },
+  "targets": {
+    "caramelturncandog": {
+      "hosting": {
+        "caramelturncan": [
+          "caramelturncan"
+        ],
+        "caramelturncandog": [
+          "caramelturncandog"
+        ]
+      }
+    }
+  }
+}
