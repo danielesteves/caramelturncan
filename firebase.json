@@ -6,7 +6,10 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ]
+    ],
+    "i18n": {
+      "root": "/localized-files"
+    }
   },
   {
     "target": "caramelturncandog",
